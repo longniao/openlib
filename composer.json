@@ -25,6 +25,7 @@
     "twig/twig": ">=1.9.1",
     "dompdf/dompdf": "dev-master",
     "knplabs/knp-snappy": "dev-master",
-    "smalot/pdfparser": "*"
+    "smalot/pdfparser": "*",
+    "phpoffice/phpword": "v0.13.*"
   }
 }
