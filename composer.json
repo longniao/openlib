@@ -23,9 +23,13 @@
     "php-ffmpeg/php-ffmpeg": "~0.6",
     "latrell/alipay": "dev-master",
     "twig/twig": ">=1.9.1",
-    "dompdf/dompdf": "dev-master",
     "knplabs/knp-snappy": "dev-master",
     "smalot/pdfparser": "*",
-    "phpoffice/phpword": "v0.13.*"
+    "dompdf/dompdf": "dev-master",
+    "phpoffice/phpproject": "dev-master",
+    "phpoffice/phpword": "v0.13.*",
+    "phpoffice/phpexcel": "dev-master",
+    "phpoffice/phppresentation": "dev-master",
+    "phpoffice/phpvisio": "dev-master"
   }
 }

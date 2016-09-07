@@ -59,6 +59,8 @@ class ComposerStaticInitf9466788bad1a5e2058b3181756d57c5
             'Psr\\Http\\Message\\' => 17,
             'Predis\\' => 7,
             'PhpOffice\\PhpWord\\' => 18,
+            'PhpOffice\\PhpProject\\' => 21,
+            'PhpOffice\\PhpPresentation\\' => 26,
             'PhpOffice\\Common\\' => 17,
         ),
         'O' => 
@@ -187,6 +189,14 @@ class ComposerStaticInitf9466788bad1a5e2058b3181756d57c5
         array (
             0 => __DIR__ . '/..' . '/phpoffice/phpword/src/PhpWord',
         ),
+        'PhpOffice\\PhpProject\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpoffice/phpproject/src/PhpProject',
+        ),
+        'PhpOffice\\PhpPresentation\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpoffice/phppresentation/src/PhpPresentation',
+        ),
         'PhpOffice\\Common\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpoffice/common/src/Common',
@@ -308,6 +318,18 @@ class ComposerStaticInitf9466788bad1a5e2058b3181756d57c5
             'Pimple' => 
             array (
                 0 => __DIR__ . '/..' . '/pimple/pimple/src',
+            ),
+            'PHPVisio' => 
+            array (
+                0 => __DIR__ . '/..' . '/phpoffice/phpvisio/Classes',
+            ),
+            'PHPProject' => 
+            array (
+                0 => __DIR__ . '/..' . '/phpoffice/phpproject/src',
+            ),
+            'PHPExcel' => 
+            array (
+                0 => __DIR__ . '/..' . '/phpoffice/phpexcel/Classes',
             ),
         ),
         'N' => 

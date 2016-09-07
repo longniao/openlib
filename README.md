@@ -56,4 +56,4 @@ composer update --prefer-dist
 | dompdf/dompdf                  |  HTML to PDF converter      |
 | knplabs/knp-snappy             |  PDF处理库                   |
 | smalot/pdfparser               |  PDF解析库                   |
-| phpoffice/phpword              |  PDF转换WORD                |
+| phpoffice/phpword              |  phpoffice组件               |
