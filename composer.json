@@ -1,0 +1,30 @@
+
+{
+  "require": {
+    "unicodeveloper/laravel-emoji": "1.0.*",
+    "illuminate/database": "*",
+    "illuminate/events": "5.0.*",
+    "symfony/debug": "2.6.*",
+    "symfony/var-dumper": "2.6.*",
+    "filp/whoops": "*",
+    "nette/mail": "*",
+    "predis/predis": "*",
+    "chrisboulton/php-resque": "1.2.x",
+    "monolog/monolog": "*",
+    "phpunit/phpunit": "4.5.*",
+    "hprose/hprose": "dev-master",
+    "overtrue/wechat": "~3.0",
+    "nmred/kafka-php": "0.1.*",
+    "phpseclib/phpseclib": "2.*",
+    "guzzlehttp/guzzle": "6.*",
+    "lox/xhprof": "dev-master",
+    "codeguy/upload": "dev-master",
+    "imagine/imagine": "dev-master",
+    "php-ffmpeg/php-ffmpeg": "~0.6",
+    "latrell/alipay": "dev-master",
+    "twig/twig": ">=1.9.1",
+    "dompdf/dompdf": "dev-master",
+    "knplabs/knp-snappy": "dev-master",
+    "smalot/pdfparser": "*"
+  }
+}
